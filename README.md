@@ -36,3 +36,4 @@ pip install mysql-connector-python
 4. Press **F5** on your keyboard or click **Run → Run Module** in the menu
 
 The program should be running now!!!
+For Screenshots and other info about the Program, Refer the Attached pdf in the Repo.
